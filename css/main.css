@@ -141,7 +141,7 @@ a:hover {
 }
 #hero-area {
   background: url('../images/slider.jpg') no-repeat 50%;
-  background-size: contain;
+  background-size: inherit;
   background-attachment: fixed;
   padding: 230px 0;
   color: #fff;
